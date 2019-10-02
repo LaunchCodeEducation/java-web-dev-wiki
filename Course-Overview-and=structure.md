@@ -12,12 +12,14 @@ Most of the traditional instruction will be done at home via online reading and 
 
 Teach students, from wide ranging backgrounds, these topics:
 
-* Learn how to learn (learning mindset)
-* Problem solving skills
-* Basic programming using JavaScript
-* Introduction of web development concepts
+* Basic functional Java
+* Programming in an IDE
+* Introduction to Spring Boot framework
+* Object oriented concepts and MVC architecture
 
-This content is meant to be a start and not the finish. With these skills students can proceed into more complex areas.
+This content is meant to be a start to these topics and not the finish. With these skills students can proceed into more complex areas.
+
+The course is designed for learners who are already familiar with at least one programming language.
 
 # Class Structure
 
@@ -35,16 +37,15 @@ This content is meant to be a start and not the finish. With these skills studen
   * Graded assignments for which students are given multiple weeks to complete
 
 # Tasks and Responsibilities
-Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows
-their role in the process.
+Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows their role in the process.
 
 ## Instructors
 
 * Report Issues to LaunchCode (LC) staff
-  * Contact LC staff by Slack, email, or phone.
+  * Contact LC staff by Slack, email, or in person.
   * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
-    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
-* Facilitate large group(full class) activities
+    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+* Facilitate large group (full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
@@ -88,4 +89,4 @@ Students should notify their TA or instructor of any issues they find in course 
 
 - Message the Ed Team in the course Slack (@EducationTeam)
 - Email the Ed Team at education@launchcode.org
-- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/issues) (only for non-urgent issues)
+- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/java-web-development/issues) (only for non-urgent issues)
