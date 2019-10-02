@@ -19,14 +19,8 @@
 
 * Some starter code will be delivered by forking [github](https://github.com/) repositories
 * Students will turn in assignments by providing a link to their repositories
- 
+
 ## Slack
 
 * [Slack](https://slack.com) is a popular messaging tool that is used in the class.
 * LaunchCode staff will send out an invitation to the Slack group specific to your class.
-
-## Student Tutorials
-
-The online course book contains short tutorials for the students on how to use Canvas.
-
-* [Introduction to Canvas](https://education.launchcode.org/java-web-development/chapters/introduction/class-platforms.html)
