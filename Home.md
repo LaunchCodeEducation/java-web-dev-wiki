@@ -9,10 +9,10 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 ## General Course Information
 
 * [Course Overview, Methodologies, and Tasks](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Overview-and-Structure)
-* [Course Platforms](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Platforms)
-* [How to Work With Students](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Working-With-Students)
-* [Grading and Student Progress](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Grading-and-Student-Progress)
-* [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+* [Course Platforms](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Platforms)
+* [How to Work With Students](https://github.com/LaunchCodeEducation/java-web-development/wiki/Working-With-Students)
+* [Grading and Student Progress](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress)
+* [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 
 ## Class Specific Guides
 
