@@ -76,42 +76,15 @@ The student's work and data in Canvas can be used to gauge how well the student 
   * These are quizzes in Canvas assigned as prep work.
   * If students consistently get these incorrect, then they are NOT understanding the reading material.
 * Exercises
-  * These are practice problems in repl.it classroom assigned as prep work.
-  * Check repl.it classroom to see if students are attempting these and if they are having success.
-  * NOTE: There is a way to give [feedback](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#feedback) in repl.it classroom
+  * These are practice problems as prep work.
+  * Check Github to see if students are attempting these and if they are having success.
+  * NOTE: [Giving feedback](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#feedback) in Github
 * Graded Assignments
   * This is where students put multiple concepts together to solve a larger problem.
   * Students often struggle getting started and then combining all the required concepts.
-  * Student work can be seen in repl.it classroom.
+  * Student work can be seen in Github classroom.
 
-## Repl.it Classroom Student Overview
-
-Repl.it classroom provides an overview of work submitted by the student. NOTE: This list contains a combination of exercises, studios, and graded assignments.
-
-Steps to see student overview:
-
-1. Login to repl.it.
-1. Go to the classroom dashboard in repl.it classroom.
-1. Scroll down to *Student Overview* and click the heading to expand it.
-1. Use browser search to find students: Command+F for Mac, Ctrl+F for Windows.
-1. Hover over assignment number column heading to see assignment name.
-1. Too see a student submission click on the icon in the student row and assignment column.
-1. You can also click on a student's name to see only that student's submissions.
-
-Example of student overview section
-<div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/java-web-development-wiki/master/wiki-materials/replit-student-overview.png"/>
-</div>
-
-[Click for full size screen shot of student overview](https://raw.githubusercontent.com/LaunchCodeEducation/java-web-development-wiki/master/wiki-materials/replit-student-overview.png)
-
-### Check Progress by Assignment
-
-Clicking on a title from the *Assignments* menu brings up the list of students and their progress on that task.  You can use the *Submissions* dropdown menu to filter the students by status (Complete, No Progress, Awaiting Help, etc.).
-
-Remember: When exiting Student Overview, [be extra careful not to edit the assignment](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#warning-do-not-edit-assignment) you were viewing.
-
-# Feedback
+## Feedback
 
 Feedback on student work is a great time to highlight things the student did well and also inform students of bad programming practices. Be positive, empathetic, and reassuring when talking to the student about their code. There are multiple ways to give feedback.
 
@@ -121,14 +94,4 @@ Reviewing student code in class is a great way to give instant feedback. **DO NO
 
 ## Feedback in Canvas
 
-Feedback can be given for graded assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form. 
-
-## Feedback in repl.it Classroom
-
-You can access a feedback section when looking at a student's submission in repl.it classroom. Type in your comments there when reviewing exercises and studios or evaluating the graded assignments.
-
-NOTE: You do **NOT** have to click *send back* for the student to see the feedback. Only use *send back* when there is a clear need for the student to update their code.
-
-<div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/java-web-development-wiki/master/wiki-materials/replit-feedback.png"/>
-</div>
+Feedback can be given for graded assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form.
