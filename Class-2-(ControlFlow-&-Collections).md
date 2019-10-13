@@ -2,41 +2,39 @@
 
 ## In the prep work this week, the students learned:
 
-1. Lorem ipsum...
+1. The Java syntax for conditionals and loops:
+    1. if/else if/else
+    1. switch statements
+    1. for, while, and do...while
+1. How to use the Array, ArrayList, and HashMap collections.
 
 ## Announcements
 
-1. Lorem ipsum...
+1. Remind the students to continue working on Graded Assignment #1! By the end of class 2, they should be able to complete a significant portion of the project.
 
 ## Large Group Time (Instructor)
 
-### First Class Reminders
-
-1. Lorem ipsum...
-1. Lorem ipsum...
-   1. Lorem ipsum...
-   1. Lorem ipsum...
-1. Lorem ipsum...
-1. Other relevant contact information.
-
 ### Class 2 Topics That Require Careful Attention
 
-1. Lorem ipsum...
-1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+1. Encouragement: Point out that learning a second coding language is usually easier than learning the first. The students already know how to use loops and conditionals, so applying them in Java is just a matter of recognizing the different syntax.
+    1. Ask the class to give some examples of similarities or differences for conditionals and loops in Java vs. other coding languages.
+1. The "fallthrough" aspect of ``switch`` statements is not always obvious and should be reviewed. However, do not sink too much time into this, since the students will use ``if/else`` statements much more often than ``switch``.
+1. Ask the students to explain the difference between ``while`` and ``do...while`` loops.
+1. Review how to use ``break`` and ``continue`` statements within loops.
+1. Review ``for...each`` loops in the context of Array and ArrayList collections. Note
+how the syntax changes when applied to HashMaps.
+1. As much as possible, live-code examples for ArrayLists and HashMaps, including how to use the most common methods.
 
-## Studio (TF Notes)
+### Class 2 Studio (TF Notes)
 
-### Best Practices for ALL Studios
-
-1. Check in with EVERY student during EVERY studio.
-   1. This builds relationships and trust, and it helps you spot potential issues before they get too large.
-   1. Checking in does NOT mean a quick question like, "How are you doing? Need any help?" Instead, sit next to the student and ask specific questions about their code, their interpretation of the instructions, or their coding dreams.
-   1. Provide detailed feedback as often as possible. "Good job!" does not cut it. An example would be "Hey! I like your variable names! They are very descriptive!".
-1. Be prepared to clarify the studio instructions beyond just re-reading the words on the screen.
-1. Encourage students to work together and share ideas.
-1. Assist individuals as questions arise. Address frequent mistakes and/or questions to your whole group.
-1. Make a note of any issues that occur during the studio and provide that feedback to the instructor and LaunchCode team.
-
-### Class 2 Studio
-
-1. Lorem ipsum...
+1. With your group, discuss the "Some Items to Ponder Before Starting" section of the studio instructions.
+1. Remember to check in with EVERY student during the studio time.
+    1. Ask them detailed questions about studio 1 if they did not finish it before the end of the last class.
+    1. As they code studio 2, ask them to explain what different portions of their code does.
+1. Common mistakes:
+    1. Not properly setting up the ``main`` method.
+    1. Forgetting to import the necessary classes (e.g. HashMap).
+    1. Even though HashMaps are the better option, many students will try to use Arrays or ArrayLists because they see them as being easier. While the students could make these collections work, be prepared to nudge them in a different direction if they get stuck.
+1. Be sure to do a visual check of your students' code.
+1. For the students who finish early, ask guided questions to encourage them to try one or more of the bonus tasks (e.g. "How could you modify your code to count 'a' and 'A' as the same letter?").
+1. Remind your students to push their work up to GitHub when they finish the studio.
