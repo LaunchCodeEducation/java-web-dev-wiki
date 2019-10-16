@@ -10,7 +10,8 @@
 
 ## Announcements
 
-1. Remind the students to continue working on Graded Assignment #1! By the end of class 2, they should be able to complete a significant portion of the project.
+1. Remind students that Graded Assignment #1 is due soon! They should be able to complete the project after today's class.
+1. Check with your class Candidate Engagement Manager for any other announcements.
 
 ## Large Group Time (Instructor)
 
