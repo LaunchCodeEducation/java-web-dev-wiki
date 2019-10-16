@@ -10,6 +10,7 @@
 
 1. Welcome! First day of Unit2 pep talk
 1. Class 2 prep work should be active by the end of class.
+1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Large Group Time (Instructor)
 
@@ -55,7 +56,7 @@
 1. Studios are NOT graded, but for this first task, you should do a visual check of each student's output.
    1. The best time to do this is during the studio!
    1. If a student does not finish by the end of class, they should complete the studio at home and push it up. You will be able to check their code from Github.
-1. Common mistake:
+1. Common mistakes:
    1. Some students may struggle with the ``main`` method requirement.
    1. Some may not be comfortable breaking their solution out into two Classes.
 1. Recognize any clever attempts to hard code the printed message.
