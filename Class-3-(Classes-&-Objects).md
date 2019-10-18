@@ -7,7 +7,7 @@
 
 ## Announcements
 
-1. Class 3 prep work should be active by the end of class.
+1. Class 4 prep work should be active by the end of class.
 1. Graded Assignment #1 is due soon!
 1. Graded Assignment #2 opens soon! Remember to get started with graded assignments as soon as possible and read through all of the directions before starting!
 
@@ -16,12 +16,12 @@
 ### Class 3 Topics That Require Careful Attention
 
 1. The differences between classes and objects can be confusing for some students.
-1. Object-oriented Programming, encapsulation, and the Single Responsibility Principle can all be very confusing and hard for students to envision. Take time to review examples that follow these principles and ones that do not. This can be helpful for students who are struggling to understand the impact that following OOP can have on class design. This is also a good segway into the studio.
+1. Object-oriented Programming, encapsulation, and the Single Responsibility Principle can all be very confusing and hard for students to envision.
+    1. Take time to review examples that follow these principles and ones that do not.
+    1. Takign time to review can be helpful for students who are struggling to understand the impact that following OOP can have on class design.
+    1. This is also a good segway into the studio.
 
-## Studio (TF Notes)
-
-
-### Class 3 Studio
+## Class 3 Studio TF Notes
 
 1. Pace the studio carefully. Students will start by designing their own classes, but also need ample time to share their class design with their partners.
 1. If the group is an odd number, either pair with the student who doesn't have a partner or make one group a group of 3.
