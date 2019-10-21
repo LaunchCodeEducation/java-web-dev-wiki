@@ -1,6 +1,6 @@
 # Class 2: Control Flow and Collections
 
-## In the prep work this week, the students learned:
+## In the prep work this week, the students learned
 
 1. The Java syntax for conditionals and loops:
     1. if/else if/else
