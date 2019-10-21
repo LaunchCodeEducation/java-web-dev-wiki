@@ -10,7 +10,7 @@
 ## Announcements
 
 1. The class 5 prep work should be active by the end of class.
-1. Graded Assignment #2 is open, and it is due soon. After today's class, you should have all of the skills required to complete the assignment.
+1. Graded Assignment #2 is open, and it is due soon. Keep working on your project! After today, you will have enough skill to make significant progress.
 
 ## Large Group Time (Instructor)
 
@@ -28,8 +28,10 @@
 
 ## Small Group Time: Class 4 Studio (TF Notes)
 
-1. This studio extends the restaurant menu the students started in class 3. Today, they will be adding methods to add and remove menu items as well as print the menu.
+1. This studio extends the restaurant menu that the students started in class 3. Today, they will create methods to add and remove menu items, as well as to print the menu.
 1. Pace the studio carefully. Just like last class, the students will begin planning their class methods using pen and paper, then pair up to share their ideas.
 1. Provide ample time for this sharing. However, the students will need more time to get their methods coded compared to the last studio, so plan accordingly.
 1. As the students get further into their coding, rotate through your group and have them demonstrate their program. Verify that they can add or remove new menu items and that they can print a menu to the screen.
-1. Just like the last studio, it is more important to make sure the students' code works and matches their design rather than some ideal case. Encourage students who are not following the principles of OOP to consider how to better encapsulate their methods.
+1. Just like the last studio, it is important to make sure the students' code works and matches their design.
+    1. Encourage students who are not following the principles of OOP to consider how to better encapsulate their methods.
+    1. If a student's code differs significantly from their design, ask them (carefully) about why they decided to adapt their plan.
