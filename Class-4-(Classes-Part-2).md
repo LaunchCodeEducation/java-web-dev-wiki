@@ -2,10 +2,11 @@
 
 ## In the prep work this week, the students learned
 
-1. What a class is in Java and how instantiating classes create objects.
-1. The difference between fields and methods
-1. What access modifiers are and how they can be used to encapsulate data.
-1. What the Single Responsibility Principle is and why we should make our classes responsible for one thing.
+1. How to customize fields with the keywords ``final`` and ``static``.
+1. How to add methods to a class and call those methods.
+1. The difference between instance methods and static methods.
+1. How to override the default ``toString`` and ``equals`` methods for a class.
+1. How to auto-generate an ``equals`` method using the tools in IntelliJ.
 
 ## Announcements
 
