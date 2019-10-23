@@ -18,7 +18,7 @@
 1. The differences between classes and objects can be confusing for some students.
 1. Object-oriented Programming, encapsulation, and the Single Responsibility Principle can all be very confusing and hard for students to envision.
     1. Take time to review examples that follow these principles and ones that do not.
-    1. Takign time to review can be helpful for students who are struggling to understand the impact that following OOP can have on class design.
+    1. Taking time to review can be helpful for students who are struggling to understand the impact that following OOP can have on class design.
     1. This is also a good segway into the studio.
 
 ## Class 3 Studio TF Notes
