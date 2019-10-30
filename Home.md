@@ -20,3 +20,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 * [Class 2 - Control Flow & Collections](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-2-(ControlFlow-&-Collections))
 * [Class 3 - Classes & Objects](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-3-(Classes-&-Objects))
 * [Class 4 - Classes, Part 2](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-4-(Classes-Part-2))
+* [Class 5 - Unit Testing](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-5-(Unit-Testing))
