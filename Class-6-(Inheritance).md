@@ -6,13 +6,13 @@
 1. How to formally diagram classes and the relationships between classes.
 
 ## Announcements
-1. 
+1. Check with your course manager for any important announcements.
 
 ## Large Group Time (Instructor)
 
 ### Class 6 Topics That Require Careful Attention
-1. Inheritance is a topic that can seem very intuitive to some and very confusing to others. Be mindful of this gap and encourage discussion in pairs as short lecture activities to help students hear other perspectives on why programmers use inheritance.
-1. The exercises for today and the studio require someone to diagram their classes. By now, all of the students should be used to this, but now that they have learned more about the pillars of OOP, they should be following object-oriented principles. This would be a good time to go over a class diagram and talk about why you made the decisions you made. 
+1. Inheritance is a topic that can seem very intuitive to some and very confusing to others. Be mindful of this gap! Encourage discussion in pairs to help students hear other perspectives on why programmers use inheritance.
+1. The exercises for today and the studio require students to diagram their classes. By now, all of the students should be used to this, but now that they have learned more about the pillars of OOP, they should be following object-oriented principles. This would be a good time to go over a class diagram and talk about why you made the decisions you made. 
 
 ## Small Group Time: Class 6 Studio (TF Notes)
 1. This is another studio where the design of the classes can be subjective, but the implementation should match the design. While the design is subjective, encourage students to use OOP and inheritance as much as possible.
