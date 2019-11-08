@@ -7,6 +7,7 @@
 1. Best practices around unit tests and interfaces.
 
 ## Announcements
+1. Graded Assignment #2 is due soon! 
 1. Check with your course manager for any important announcements.
 
 ## Large Group Time (Instructor)
