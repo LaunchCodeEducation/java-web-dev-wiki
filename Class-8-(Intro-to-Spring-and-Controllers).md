@@ -31,4 +31,4 @@ text.
 
 1. Do your best to help students who may be stuck with IntelliJ errors or warnings related to Gradle or JDK versions.
 1. Ths studio will be their first foray into creating their own Spring project. Remind them of the necessary configuration options to choose on start.spring.io.
-1. The students may also benefit from a reminder of how to create a select tag.
+1. Some students may also benefit from a reminder of how to create a ``select`` tag.
