@@ -26,3 +26,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 * [Class 8 - Intro to Spring and Controllers](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-8-(Intro-to-Spring-and-Controllers))
 * [Class 10 - Thymeleaf Views](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-10-(Thymeleaf-views))
 * [Class 11 - Model Classes and Model Binding](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-11-(Model-Classes-and-Model-Binding))
+* [Class 14 - Databases and SQL](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-14-(SQL-Part-1))
