@@ -8,7 +8,7 @@
 
 ## Announcements
 1. Students are over half way done with Unit 2. Give them a shout out!
-1. Graded Assignment #4 covers the material from Classes 14-17. As always encourage the students to take the time to read through the whole assignment and see what they can get started on now.
+1. Graded Assignment #4 covers the material from Classes 14-17. As always, encourage the students to take the time to read through the whole assignment and see what they can get started on now.
 1. Check with your course manager for any important announcements.
 
 ## Large Group Time (Instructor)
@@ -23,4 +23,5 @@
 ## Small Group Time: Class 14 Studio (TA Notes)
 1. Help students who had issues with installations get going!
 1. Remind your students to follow the sequence of the instructions. If they don't, it is very easy to get tripped up later!
-1. The first sections go over setting up the database in MySQL Workbench. Try to check in with any students that are done with this to make sure they did it correctly! If they didn't and try to start querying, a lot of different errors can arise!
+1. The first sections go over setting up the database in MySQL Workbench. Try to check in with any students who are done with this to make sure they did it correctly! If they didn't and try to start querying, a lot of different errors can arise!
+1. There are two examples for setting up the ``movies`` table. Students must follow the SECOND one to get through the studio. The second one sets up a foreign key.
