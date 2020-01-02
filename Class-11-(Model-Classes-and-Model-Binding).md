@@ -21,7 +21,7 @@
 1. It may be tempting for students to associate models with data storage. Emphasize that our current data storage methods will be refactored and models are not raw data in a proper MVC app.
 1. To that point, a discussion on the object-oriented principles guiding data encapsulation and why we remove the data from the controller is useful.
 1. Demonstrate techniques for creating unique object ids and remind them why access to these fields should be limited.
-1. Discuss model binding and its benefits in general, and also what it looks like with Thymeleaf templates
+1. Discuss model binding and its benefits in general, and also what it looks like with Thymeleaf templates.
 
 ## Small Group Time: Class 11 Studio (TA Notes)
 
