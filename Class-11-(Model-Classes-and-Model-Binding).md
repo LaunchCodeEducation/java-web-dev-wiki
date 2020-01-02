@@ -1,4 +1,4 @@
-# Class 10: Models Classes and Model Binding
+# Class 11: Models Classes and Model Binding
 
 ## In the prep work this week, the students learned
 
