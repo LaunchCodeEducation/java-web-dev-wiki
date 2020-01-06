@@ -28,3 +28,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 * [Class 11 - Model Classes and Model Binding](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-11-(Model-Classes-and-Model-Binding))
 * [Class 12 - Model Validation and Enums](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-12-(Model-Validation-and-Enums))
 * [Class 14 - Databases and SQL](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-14-(SQL-Part-1))
+* [Class 15 - The SQL Sequel](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-15-(SQL-Part-2))
