@@ -3,6 +3,7 @@
         "intelli",
         "j",
         "subqueries",
+        "subquery",
         "thymeleaf"
     ]
 }

@@ -23,15 +23,15 @@
     1. When used in a ``FROM`` clause, the subquery must be given an alias.
 1. As time permits, discuss adding subqueries to ``INSERT`` and ``UPDATE`` statements.
 1. Joins and subqueries are both abstract concepts, and some students may see them as accomplishing the same thing. Spend some time discussing:
-    1. The differences between joins and subqueries,
-    1. When to use one approach over the other,
+    1. The differences between joins and subqueries.
+    1. When to use one approach over the other.
     1. How to use a join and a subquery.
 1. Review the studio!
 
 ## Small Group Time: Class 15 Studio (TA Notes)
 
 1. Remember to check in with each of your students. A good time to shoulder-surf today is during the warm-up SQL query tasks.
-1. Just like SQL part 1, the students will need to download and run a canned set of SQL instructions to create and populate the necessary tables. Some may struggle with this, so be ready to help them through the process.
+1. Just like SQL part 1, the students will need to make a new model, create tables, and download and import data. Be ready to provide reminders and troubleshooting for anyone who struggles with this process.
 1. If a student keeps getting error messages during the warm-up tasks, they may have set up their tables incorrectly. Have them ``SELECT * FROM table_name`` to verify this.
 1. If a student is struggling with setting up a subquery, ask them how they would accomplish the task using a sequence of simple queries. From there, ask guiding questions to help them combine the separate steps into a single SQL statement.
     1. Many times, issues with subqueries result from syntax errors (e.g. missing parentheses) rather than keywords.
