@@ -1,35 +1,34 @@
-# Class 16: Introduction to Object-Relational Mapping
+# Class 17: Relationships in Object-Relational Mapping
 
 ## In the prep work this week, the students learned
 
-1. What object-relational mapping is.
-1. How to connect a Spring application to a MySQL database.
-1. How to create an entity class.
-1. How to create a repository interface.
+1. How to persistent model classes that have one-to-many and many-to-one relationships.
+1. How these relationship types are represented in a SQL database.
+1. How to DRY code using an ``AbstractEntity``, annotated with ``@MappedSuperclass`` 
 
 ## Announcements
 
-1. Assignment #4 is open and students can start working on it!
+1. Assignment #4 is open and students should be actively working on it. After today's class, students will be able 	to complete all but Part 4.
 1. Check with your course manager for any additional announcements.
 
 ## Large Group Time (Instructor)
 
-### Class 16 Topics That Require Careful Attention
+### Class 17 Topics That Require Careful Attention
 
-1. Review the relationship between Java classes/objects and database tables/rows.
-1. The students went through a number of different steps to get their Spring apps going and storing events and event categories. Review each setup step and why it matters.
-   1. Creating a new schema and add a new user in MySQL Workbench.
-   1. Add the necessary dependencies in IntelliJ.
-   1. Add the user info for the schema in MySQL into ``application.properties``.
-1. Review what an *entity* class is and what it becomes in a relational database.
-1. Review what a *repository* is and what it becomes in a relational database.
-1. Review the studio!
+1. Again, review the relationship between Java classes/objects and database tables/rows.
+1. Address the inverse relationship of one-to-many and many-to-one related classes.
+1. Touch upon the fact that these types of relationships between classes need not be bi-directional.
+1. Confirm that students understand the benefit that ``AbstractEntity`` provides and what ``@MappedSuperclass``       does.
+1. Discuss the ``CrudRepository`` interface and how to use and research its methods.
 
-## Small Group Time: Class 16 Studio (TA Notes)
+   a. The in-book ``coding-events`` example makes use of ``.findById()``, which returns an ``Optional`` instance.
+      It would also be wise to discuss this class briefly.
 
-1. If students didn't finish the exercises, they can check out the ``add-persistent-category`` branch of their ``coding-events`` repo. If they do not have that branch in their repository, they need to fetch from the upstream and merge into their repository.
-   1. To do so, they need to make sure the upstream is set up with ``git remote -v`` and double check that they are on ``master``.
-   1. With the upstream present, run ``git fetch upstream``
-   1. Then merge the upstream into the forked repo with ``git merge upstream/master``.
-1. An ``AbstractEntity`` is a new concept. This is a good chance to share some examples of why you, as a developer, may use an ``AbstractEntity`` in your work.
-1. Check in with your students!
+
+## Small Group Time: Class 17 Studio (TA Notes)
+
+1. Studio time in today's class is reserved to work on Assignment 4. 
+1. Please take the time to complete the assignment yourself before class, or at least get familiar with the tasks     at hand. Offer your experience solving the various parts or setting up the database so that you may share any      stumbling blocks you may have encountered.
+1. The material presented for today's class gives students the ability to finish Parts 1-3 - setting up the           database, persisting the model classes and leveraging an ``AbstractEntity`` class, and setting up a one-to-many 
+   relationship between objects.
+1. Some students may have difficulty creating a new ``techjobs`` schema and correctly linking to this in their        Spring app. Or they may struggle with creating a new MySQL user and assigning the right permissions. be on the     lookout for these issues as these will impede progress with the rest of the assignment.
