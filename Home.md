@@ -32,3 +32,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 * [Class 15 - The SQL Sequel](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-15-(SQL-Part-2))
 * [Class 16 - Introduction to Object-Relational Mapping](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-16-(ORM-Part-1))
 * [Class 17 - Relationships in Object-Relational Mapping](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-17-(ORM-Part-2))
+* [Class 18 - ORM Part 3](https://github.com/LaunchCodeEducation/java-web-development/wiki/Class-18-(ORM-Part-3))
