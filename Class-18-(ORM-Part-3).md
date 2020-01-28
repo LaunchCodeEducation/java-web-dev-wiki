@@ -9,13 +9,13 @@
 
 ## Announcements
 
-1. Assignment #4 is due soon!
+1. Assignment #4 is due soon! After Class 18, students have all of the materials they need to complete the assignment.
 1. Check with your course manager for any additional announcements.
 
 ## Large Group Time (Instructor)
 
 ### Class 18 Topics That Require Careful Attention
-1. Review the one-to-many and many-to-one relationships in preparation to one-to-one and many-to-many relationships.
+1. Review the one-to-many and many-to-one relationships in preparation to discuss one-to-one and many-to-many relationships.
 1. Go over what the ``cascade`` parameter does in different scenarios and how ``cascade = CascadeType.ALL`` ensures child objects are saved when saving the parent object.
 1. How programmers use a Data Transfer Object to establish relationships between many-to-many entities.
 
