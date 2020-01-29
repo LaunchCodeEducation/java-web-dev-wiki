@@ -20,6 +20,6 @@
 
 ## Small Group Time: Class 20 Studio (TA Notes)
 
-1. Make sure to get every student through the Spring Security studio! By the end of the class, everyone should have a fully-functioning web application with authentication!
-1. If students have completed all that they need to complete for the Spring Security studio, encourage them to review REST and Spring Security with their classmates. Can they find another site that has an easy-to-read URL and identify the final portions.
+1. Make sure to get every student through the authentication studio! By the end of the class, everyone should have a fully-functioning web application with authentication!
+1. If students have completed all that they need to complete for the authentication studio, encourage them to review REST and authentication with their classmates. Can they find another site that has an easy-to-read URL and identify the final portions?
 1. While everyone should be learning and finishing up their work, there is no harm in a little fun! If you want to do something special for your group, check in with your Course Manager to make sure it is okay!
