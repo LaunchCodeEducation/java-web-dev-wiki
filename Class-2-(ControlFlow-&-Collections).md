@@ -3,7 +3,7 @@
 ## In the prep work this week, the students learned
 
 1. The Java syntax for conditionals and loops:
-    1. if/else if/else
+    1. if/, else, if/else
     1. switch statements
     1. for, while, and do...while
 1. How to use the Array, ArrayList, and HashMap collections.
