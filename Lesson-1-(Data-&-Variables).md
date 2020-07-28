@@ -1,3 +1,5 @@
+# Lesson 1: Data and Variables
+
 ## In the prep work this week, the students learned:
 
 1. Set up a Java development environment and execute Java programs
@@ -8,7 +10,7 @@
 
 ## Announcements
 
-1. Welcome! First day of Unit2 pep talk
+1. Welcome! First day of Unit 2 pep talk
 1. Class 2 prep work should be active by the end of class.
 1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
@@ -24,7 +26,7 @@
 1. Introduce the TFs and assign groups (may be done during the studio intro).
 1. Other relevant contact information.
 
-### Class 1 Topics That Require Careful Attention
+### Lesson 1 Topics That Require Careful Attention
 
 1. Getting IntelliJ installed and a first project set up. There are a number of 
    project defaults needed that some students may have questions on. Encourage them to get comfortable with IntelliJ since we'll be using it lot from now on.
@@ -49,7 +51,7 @@
 1. Assist individuals as questions arise. Address frequent mistakes and/or questions to your whole group.
 1. Make a note of any issues that occur during the studio and provide that feedback to the instructor and LaunchCode team.
 
-### Class 1 Studio
+### Lesson 1 Studio
 
 1. Ensure students successfully fork and clone the ``java-web-dev-exercises`` repo.
 1. Make sure students properly create the package and Classes.

@@ -1,4 +1,4 @@
-# Class 10: Thymeleaf and Views
+# Lesson 10: Thymeleaf and Views
 
 ## In the prep work this week, the students learned
 
@@ -16,7 +16,7 @@
 
 ## Large Group Thyme (Instructor)
 
-### Class 10 Topics That Require Careful Attention
+### Lesson 10 Topics That Require Careful Attention
 
 1. Remind the students that when they start a new project, Java 13 and Gradle 6 are the versions they should use.
 1. Just like lesson 8, lesson 10 includes short videos that provide guided, live-coding practice. Remind the students that the text included before and after the clips is NOT intended as a replacement for the videos.
@@ -28,7 +28,7 @@
 
 1. Show examples of how to use ``th:fragment`` and ``th:replace``.
 
-## Small Group Thyme: Class 10 Studio (TA Notes)
+## Small Group Thyme: Lesson 10 Studio (TA Notes)
 
 1. Do your best to help students who may be stuck with IntelliJ errors or warnings related to Gradle or JDK versions.
 1. Walk around and make sure no one is struggling with forking, cloning, and opening the starter code in IntelliJ.

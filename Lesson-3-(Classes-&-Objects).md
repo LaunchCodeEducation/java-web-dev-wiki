@@ -1,3 +1,5 @@
+# Lesson 3: Classes and Objects
+
 ## In the prep work this week, the students learned:
 
 1. What a class is in Java and how instantiating classes create objects.
@@ -13,7 +15,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 3 Topics That Require Careful Attention
+### Lesson 3 Topics That Require Careful Attention
 
 1. The differences between classes and objects can be confusing for some students.
 1. Object-oriented Programming, encapsulation, and the Single Responsibility Principle can all be very confusing and hard for students to envision.
@@ -21,7 +23,7 @@
     1. Taking time to review can be helpful for students who are struggling to understand the impact that following OOP can have on class design.
     1. This is also a good segway into the studio.
 
-## Class 3 Studio TF Notes
+## Lesson 3 Studio TF Notes
 
 1. Pace the studio carefully. Students will start by designing their own classes, but also need ample time to share their class design with their partners.
 1. If the group is an odd number, either pair with the student who doesn't have a partner or make one group a group of 3.
