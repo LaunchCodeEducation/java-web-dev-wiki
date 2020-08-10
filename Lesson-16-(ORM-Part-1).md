@@ -1,4 +1,4 @@
-# Class 16: Introduction to Object-Relational Mapping
+# Lesson 16: Introduction to Object-Relational Mapping
 
 ## In the prep work this week, the students learned
 
@@ -14,7 +14,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 16 Topics That Require Careful Attention
+### Lesson 16 Topics That Require Careful Attention
 
 1. Review the relationship between Java classes/objects and database tables/rows.
 1. The students went through a number of different steps to get their Spring apps going and storing events and event categories. Review each setup step and why it matters.
@@ -25,7 +25,7 @@
 1. Review what a *repository* is and what it becomes in a relational database.
 1. Review the studio!
 
-## Small Group Time: Class 16 Studio (TA Notes)
+## Small Group Time: Lesson 16 Studio (TA Notes)
 
 1. If students didn't finish the exercises, they can check out the ``add-persistent-category`` branch of their ``coding-events`` repo. If they do not have that branch in their repository, they need to fetch from the upstream and merge into their repository.
    1. To do so, they need to make sure the upstream is set up with ``git remote -v`` and double check that they are on ``master``.
