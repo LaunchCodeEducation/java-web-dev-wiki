@@ -29,3 +29,14 @@
 1. Don't be afraid to share your own debugging and errors stories! Emphasize that every programmer has to deal with bugs.  It gets a lot easier once you have a strategy in place and the right tools.
 1. Helping students figure out a process by which they can debug their code is the point of the studio.  If they add a breakpoint, ask them to tell you why they put it there.  Or what they learned from it.
 1. After students finish playing around with ``lsn7interfaces``, encourage them to use their new debugging skills on another project or piece of code that is giving them trouble.  This could be an old set of exercises that they never got quite right, a studio, or an outstanding assignment.
+
+## Gradle Resources and Troubleshooting
+
+[Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/current/gradle-plugin/reference/htmlsingle/)
+
+[Troubleshooting Gradle Builds](https://docs.gradle.org/current/userguide/troubleshooting.html)
+
+[Solving common problems](https://docs.gradle.org/current/userguide/common_caching_problems.html)
+
+[Gradle not compiling dependency jars in lib folder](https://discuss.gradle.org/t/gradle-not-compiling-dependency-jars-in-lib-folder/22186)
+
