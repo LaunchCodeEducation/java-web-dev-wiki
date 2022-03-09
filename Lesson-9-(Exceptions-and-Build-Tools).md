@@ -36,7 +36,7 @@
 
 [Troubleshooting Gradle Builds](https://docs.gradle.org/current/userguide/troubleshooting.html)
 
-[Solving common problems](https://docs.gradle.org/current/userguide/common_caching_problems.html)
+[Solving common gradle problems](https://docs.gradle.org/current/userguide/common_caching_problems.html)
 
 [Gradle not compiling dependency jars in lib folder](https://discuss.gradle.org/t/gradle-not-compiling-dependency-jars-in-lib-folder/22186)
 
