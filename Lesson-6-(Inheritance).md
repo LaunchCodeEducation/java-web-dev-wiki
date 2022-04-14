@@ -8,6 +8,12 @@
 ## Announcements
 1. Check with your course manager for any important announcements.
 
+### For Full-Time Students:
+* Welcome to Day 9!
+* Lesson 6
+* If studio finishes up early, can use the extra time to work on Assignment 2
+* More Assignment 2 work days coming up
+
 ## Large Group Time (Instructor)
 
 ### Lesson 6 Topics That Require Careful Attention
