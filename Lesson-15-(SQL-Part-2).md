@@ -1,6 +1,6 @@
 # Lesson 15: The SQL Sequel
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. More details behind one-to-many table relationships.
 1. The MySQL syntax for establishing primary and foreign keys.
@@ -9,8 +9,21 @@
 
 ## Announcements
 
-1. Graded Assignment #4 covers the material from Classes 14-17. Encourage the students to use their new SQL skills to start setting up the database and tables for the assignment.
 1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
+
+1. Graded Assignment #4 covers the material from Classes 14-17. Encourage the students to use their new SQL skills to start setting up the database and tables for the assignment.
+
+### For Full-Time Students:
+* Welcome to Days 23 & 24!
+* **Day 23**:
+    * Lesson 15
+* **Day 24**:
+    * Introduce Assignment 4
+    * Assignment 4 work day
+    * Assignment 4 due end of Day 32.
+    * Graded Assignment #4 covers the material from Classes 14-17. Encourage the students to use their new SQL skills to start setting up the database and tables for the assignment.
 
 ## Large Group Time (Instructor)
 
@@ -30,7 +43,7 @@
 
 ## Small Group Time: Lesson 15 Studio (TA Notes)
 
-1. Remember to check in with each of your students. A good time to shoulder-surf today is during the warm-up SQL query tasks.
+1. Remember to check in with each of your students. A good time to check-in today is during the warm-up SQL query tasks.
 1. Just like SQL part 1, the students will need to make a new model, create tables, and download and import data. Be ready to provide reminders and troubleshooting for anyone who struggles with this process.
 1. If a student keeps getting error messages during the warm-up tasks, they may have set up their tables incorrectly. Have them ``SELECT * FROM table_name`` to verify this.
 1. If a student is struggling with setting up a subquery, ask them how they would accomplish the task using a sequence of simple queries. From there, ask guiding questions to help them combine the separate steps into a single SQL statement.
