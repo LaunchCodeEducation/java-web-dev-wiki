@@ -1,6 +1,6 @@
 # Lesson 3: Classes and Objects
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What a class is in Java and how instantiating classes create objects.
 1. The difference between fields and methods
@@ -10,8 +10,24 @@
 ## Announcements
 
 1. Class 4 prep work should be active by the end of class.
+
+
+
+### For Part-Time Students:
+
 1. Graded Assignment #1 is due soon!
 1. Graded Assignment #2 opens soon! Remember to get started with graded assignments as soon as possible and read through all of the directions before starting!
+
+### For Full-Time Students:
+* Welcome to Days 3 & 4!
+* **Day 3**:
+    * Lesson 3 topics
+* **Day 4**: 
+    * Work Day!
+    * Review how classes and objects work in Java and IntelliJ
+    * Can use to work on Assignment 1.
+    * More work days coming up
+* Assignment 1 due Day 8
 
 ## Large Group Time (Instructor)
 

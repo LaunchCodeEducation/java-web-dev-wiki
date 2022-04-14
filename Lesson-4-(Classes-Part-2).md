@@ -1,6 +1,6 @@
 # Lesson 4: Classes, Part 2
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. How to customize fields with the keywords ``final`` and ``static``.
 1. How to add methods to a class and call those methods.
@@ -10,8 +10,18 @@
 
 ## Announcements
 
-1. The class 5 prep work should be active by the end of class.
+### For Part-Time Students:
 1. Graded Assignment #2 is open, and it is due soon. Keep working on your project! After today, you will have enough skill to make significant progress.
+
+### For Full-Time Students:
+* Welcome to Days 5 - 7!
+* Assignment 1 due end of Day 8
+* **Day 5**:
+    * Lesson 4
+* **Days 6 & 7**:
+    * Assignment 1 work days
+    * Catch up days
+
 
 ## Large Group Time (Instructor)
 
