@@ -1,6 +1,6 @@
 # Lesson 12: Model Validation and Enums
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. How and why to validate model data in Spring Boot.
 1. How to use Java Validation API annotations.
@@ -10,7 +10,19 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
 1. Students should have assignment 3 completed by today's class.
+
+### For Full-Time Students:
+* Welcome to Days 19-21!
+* **Day 19**:
+   * Lesson 12
+* **Day 20**:
+   * Assignment 3 Work Day
+* ** Day 21**:
+   * Assignment 3 Work Day
+   * Have students work on setting up MySQL.  Directions in the SQL textbook.
 
 ## Large Group Time (Instructor)
 
