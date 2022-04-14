@@ -19,6 +19,7 @@
 
 ### For Full-Time Students:
 * Welcome to Days 16 & 17!
+* Assignment 3 due at end of Day 22
 * **Day 16**:
     * Lesson 10
 * **Day 17**:

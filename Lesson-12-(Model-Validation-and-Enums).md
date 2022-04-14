@@ -10,12 +10,14 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+1. Lesson 13 is a designated work day.  
 
 ### For Part-Time Students:
 1. Students should have assignment 3 completed by today's class.
 
 ### For Full-Time Students:
 * Welcome to Days 19-21!
+* Assignment 3 due at end of Day 22
 * **Day 19**:
    * Lesson 12
 * **Day 20**:
