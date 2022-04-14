@@ -9,8 +9,14 @@
 
 ## Announcements
 
-1. Remind students that Assignment #3 is open for them to start working on it!
 1. Check with your course manager for any other important announcements.
+
+### For Part-Time Students:
+1. Remind students that Assignment #3 is open for them to start working on it!
+
+### For Full-Time Students:
+* Welcome to day 15!
+
 
 ## Large Group Time (Instructor)
 
