@@ -1,6 +1,6 @@
 # Lesson 8: Introduction to Spring Boot, MVC, and Controllers
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. About the MVC design pattern.
 1. What the Spring framework is.
@@ -10,6 +10,12 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
+
+### For Full-Time Students:
+* Welcome to Day 14!
+* Assignment 2 die by end of today
 
 ## Large Group Time (Instructor)
 
