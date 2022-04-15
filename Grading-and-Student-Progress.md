@@ -28,7 +28,7 @@ Student work is stored in *github repositories*.
 ### Full-Time Students
 1. Exercise Solutions: Students work on these during Prep Work time. Reviewed but **NOT graded**.
 1. Studio Solutions: In-class practice that is reviewed but **NOT graded**.
-1. Graded Assignment Solutions: At home work that **is graded**.
+1. Graded Assignment Solutions: In-class work that **is graded**.
 1. Self-Assessments: In-class tool desgined to show students what they know and what they should review.  **NOT graded**.
 
 
