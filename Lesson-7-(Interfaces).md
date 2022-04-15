@@ -1,14 +1,31 @@
 # Lesson 7: Interfaces and Polymorphism
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 1. What polymorphism is.
 1. What interfaces are and the difference between interfaces and abstract classes.
 1. Different interfaces that are a part of Java, and how they can be used in our code.
 1. Best practices around unit tests and interfaces.
 
 ## Announcements
-1. Graded Assignment #2 is due soon! 
+
 1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
+1. Graded Assignment #2 is due soon! 
+
+### For Full-Time Students:
+* Welcome to Days 10-13!
+* Assignment 2 due by end of Day 14
+* **Day 10**: 
+    * Lesson 7 prep work in morning
+    * Assignment 2 work time in afternoon
+* **Day 11**:
+    * Lesson 7 lecture and studio in morning
+    * Self-Assessment 1 in afternoon
+    * Assignment 2 work time after Self-Assessment
+* **Days 12 & 13**:
+    * Work days for Assignment 2
+
 
 ## Large Group Time (Instructor)
 

@@ -1,6 +1,6 @@
 # Lesson 16: Introduction to Object-Relational Mapping
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. What object-relational mapping is.
 1. How to connect a Spring application to a MySQL database.
@@ -9,8 +9,14 @@
 
 ## Announcements
 
-1. Assignment #4 is open and students can start working on it!
 1. Check with your course manager for any additional announcements.
+
+### For Part-Time Students:
+1. Assignment #4 is open and students can start working on it!
+
+### For Full-Time Students:
+* Welcome to Day 25!
+* Work days for Assignment 4 coming Days 28-31
 
 ## Large Group Time (Instructor)
 

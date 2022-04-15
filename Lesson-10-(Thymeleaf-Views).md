@@ -1,6 +1,6 @@
 # Lesson 10: Thymeleaf and Views
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. More about the "view" portion the MVC design pattern.
 1. Why using templates to design a website is a good idea.
@@ -12,7 +12,21 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
+
 1. Remind the students that they should be working on Assignment 3. After this class, they should be able to make significant progress with the required tasks.
+
+### For Full-Time Students:
+* Welcome to Days 16 & 17!
+* Assignment 3 due at end of Day 22
+* **Day 16**:
+    * Lesson 10
+* **Day 17**:
+    * Introduce Assignment 3
+    * Assignment 3 work day
+    * Assignment 3 due by end of day 22
+
 
 ## Large Group Thyme (Instructor)
 

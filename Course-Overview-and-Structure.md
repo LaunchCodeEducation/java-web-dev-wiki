@@ -23,9 +23,13 @@ The course is designed for learners who are already familiar with at least one p
 
 # Class Structure
 
+## Part-Time Students
 * Prep work
   * Tasks student do **at home, before class**
-  * Reading chapters, quizzes, practice exercises
+    * Includes:
+      * Reading chapters
+      * Reading quizzes
+      * Practice exercises
 * Primary Instruction
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
@@ -35,6 +39,27 @@ The course is designed for learners who are already familiar with at least one p
   * Designed to be **safe practice time** for students with TF support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
+
+## Full-Time Students
+* Prep work
+  * Tasks student do **during class**
+    * Includes:
+      * Reading chapters
+      * Reading quizzes
+      * Practice exercises
+* Primary Instruction
+  * Led by the instructor
+  * Lasts 45 minutes to 1 hour
+* Studio
+  * Students separate into assigned groups, that are led by a TF
+  * Lasts 1 to 1.5 hours
+  * Designed to be **safe practice time** for students with TF support
+* Programming Assignments
+  * Graded assignments for which students are given multiple days to complete **during class**
+* Self-Assessments (Full-Time Students only)
+  * These assessments are scheduled to provide feedback for the student about what concepts they understand and what they need to review.
+  * These are not graded, and will not prevent a student from passing the class.
+  * Use these to assess overall class understanding of concepts.
 
 # Tasks and Responsibilities
 Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows their role in the process.
@@ -54,7 +79,7 @@ Instructors and TFs are crucial to the success of the students. These tasks help
   * Look for signs of students struggling and falling behind
   * Use feedback from students and TFs to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Manage and coach TFs
+* Act as a knowledgeable resource for TFs
 
 ## Teaching Fellows (TFs)
 
@@ -77,8 +102,16 @@ TFs will be assigned a group of students to guide.
 
 ## Students
 
+### Part-Time Students
 * Pay attention to assignments in Canvas
 * Do the prep work **before class**
+* Attend class and participate in activities
+* Turn in graded assignments on time
+* Do their own work
+
+### Full-Time Students
+* Pay attention to assignments in Canvas
+* Do the prep work during assigned **in-class** working time
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work

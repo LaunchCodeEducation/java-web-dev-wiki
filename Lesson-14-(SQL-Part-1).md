@@ -1,6 +1,6 @@
 # Lesson 14: Databases and SQL
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. What a relational database is.
 1. What SQL is and why it is important.
@@ -9,9 +9,16 @@
 
 ## Announcements
 
+1. Lesson 13 is a designated work day.  No new learning materials.
+1. Check with your course manager for any important announcements.
+
+### For Part-Time Students:
 1. Students are over half way done with Unit 2. Give them a shout out!
 1. Graded Assignment #4 covers the material from Classes 14-17. As always, encourage the students to take the time to read through the whole assignment and see what they can get started on now.
-1. Check with your course manager for any important announcements.
+
+### For Full-Time Students:
+* Welcome to Day 22!
+* Assignment 3 due by end of today.
 
 ## Large Group Time (Instructor)
 
@@ -21,7 +28,7 @@
 1. Review the different CRUD operations and reiterate warnings for updating and deleting data.
 1. Joins can be conceptually odd. Take the time on each one to go over a query and have students discuss what the result set might look like before sharing the result set.
 1. Review the studio!
-1. Before students head out for studio time, let students know that if they had issues installing MySQL and/or MySQL Workbench, resolving those issues come first!
+1. Before students head into the studio, let students know that if they had issues installing MySQL and/or MySQL Workbench, resolving those issues come first!
 
 ## Small Group Time: Lesson 14 Studio (TA Notes)
 

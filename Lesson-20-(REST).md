@@ -1,6 +1,6 @@
 # Lesson 20: REST
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. What REST stands for and why it is important.
 1. How to define statelessness.
@@ -8,8 +8,23 @@
 
 ## Announcements
 
-1. This is the last class of the program! Take the time to acknowledge all of the hard work the students have put in!
 1. Check with your course manager for any additional announcements.
+
+### For Part-Time Students:
+1. This is the last class of the program! Take the time to acknowledge all of the hard work the students have put in!
+
+### For Full-Time Students:
+* Welcome to Day 33-35!
+* **Day 33**:
+   * Lesson 20
+      * This is the last lesson of the program! Take the time to acknowledge all of the hard work the students have put in!
+* **Day 34**:
+   * Work Day for Authentication and REST
+* **Day 35**:
+   * Unit 2 Wrap up!
+   * Work Day 
+   * ALL Java Assignments due by end of day!
+   * If students moving into Liftoff, can give overview of Liftoff.
 
 ## Large Group Time (Instructor)
 

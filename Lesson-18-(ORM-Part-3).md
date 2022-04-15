@@ -1,6 +1,6 @@
 # Lesson 18: Object-Relational Mapping Part 3
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. How to build persistent model classes with one-to-one and many-to-many relationships.
 1. What a composite key is.
@@ -9,8 +9,24 @@
 
 ## Announcements
 
-1. Assignment #4 is due soon! After Class 18, students have all of the materials they need to complete the assignment.
+1. After Class 18, students have all of the materials they need to complete the assignment.
 1. Check with your course manager for any additional announcements.
+
+### For Part-Time Students:
+1. Assignment 4 is due soon! 
+
+### For Full-Time Students:
+* Welcome to Days 27 - 31!
+* Assignment 4 due by end of Day 32
+* **Day 27**:
+   * Lesson 18
+* **Day 28**: 
+   * Work Day for ORM if needed.  Students who grasp ORM can work on Assignment 4
+* **Day 29**:
+   * Self-Assessment 2 (last one)
+   * Work Day for Assignment 4
+* **Days 30-31**: Work Days for Assignment 4
+
 
 ## Large Group Time (Instructor)
 
