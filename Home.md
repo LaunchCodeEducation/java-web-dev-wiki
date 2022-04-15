@@ -25,6 +25,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/java-web-devel
 * [Lesson 6 - Inheritance](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-6-(Inheritance))
 * [Lesson 7 - Interfaces](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-7-(Interfaces))
 * [Lesson 8 - Intro to Spring and Controllers](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-8-(Intro-to-Spring-and-Controllers))
+* [Lesson 9 - Exceptions and Java Tools](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-9-(Exceptions-and-Build-Tools))
 * [Lesson 10 - Thymeleaf Views](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-10-(Thymeleaf-views))
 * [Lesson 11 - Model Classes and Model Binding](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-11-(Model-Classes-and-Model-Binding))
 * [Lesson 12 - Model Validation and Enums](https://github.com/LaunchCodeEducation/java-web-development/wiki/Lesson-12-(Model-Validation-and-Enums))
