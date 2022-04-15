@@ -1,6 +1,6 @@
 # Lesson 19: Authentication
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. What authentication is.
 1. What sessions and cookies are and how sessions and cookies are used to verify a user's identity.
@@ -11,8 +11,15 @@
 ## Announcements
 
 1. Students are almost done with the class! One class left!
-1. Assignment #4 is due soon!
 1. Check with your course manager for any additional announcements.
+
+### For Part-Time Students:
+1. Assignment #4 is due soon!
+
+### For Full-Time Students:
+* Welcome to Day 32!
+* Assignment 4 due by end of today
+* Day 34 is dedicated time to work on Authentication and REST
 
 ## Large Group Time (Instructor)
 

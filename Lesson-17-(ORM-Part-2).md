@@ -1,6 +1,6 @@
 # Lesson 17: Relationships in Object-Relational Mapping
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned
 
 1. How to persist model classes that have one-to-many and many-to-one relationships.
 1. How these relationship types are represented in a SQL database.
@@ -8,8 +8,15 @@
 
 ## Announcements
 
-1. Assignment #4 is open and students should be actively working on it. After today's class, students will be able to complete all but Part 4.
 1. Check with your course manager for any additional announcements.
+
+### For Part-Time Students:
+
+1. Assignment #4 is open and students should be actively working on it. After today's class, students will be able to complete all but Part 4.
+
+### For Full-Time Students:
+* Welcome to Day 26!
+* Assignment 4 Work Time scheduled for Days 28 - 31!
 
 ## Large Group Time (Instructor)
 
