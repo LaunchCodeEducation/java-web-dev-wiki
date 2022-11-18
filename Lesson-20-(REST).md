@@ -29,6 +29,7 @@
 ## Large Group Time (Instructor)
 
 ### Lesson 20 Topics That Require Careful Attention
+1. We have put together some [slides](https://docs.google.com/presentation/d/1z1V3T0BkAMwtwBaUoZPXUJ06RlyqRxXS-0Rg8H12z3s/edit?usp=sharing) for you with examples.
 1. Review the characteristics of REST. REST is deceptively simple, but so important for the students to understand!
 1. Go over the Adopt-a-Pet examples! Highlight the URL portions of the URLs for different pet searches.
 1. Make sure to leave time to do a temperature check for the previous lesson. Did everyone finish the studio? Is everyone getting the concepts? Class 19 had a lot of material in it.
